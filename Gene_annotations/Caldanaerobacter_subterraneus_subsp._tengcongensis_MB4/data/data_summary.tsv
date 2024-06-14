@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Caldanaerobacter subterraneus subsp. tengcongensis MB4		strain: MB4	273068	ASM708v1	GCA_000007085.1	GenBank	Annotation submitted by Beijing Center.HGP	Complete Genome	2689445	2689445	2002-05-14	2721	PRJNA249	SAMN02603009
+Caldanaerobacter subterraneus subsp. tengcongensis MB4		strain: MB4	273068	ASM708v1	GCF_000007085.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2689445	2689445	2002-05-14	2727	PRJNA249	SAMN02603009

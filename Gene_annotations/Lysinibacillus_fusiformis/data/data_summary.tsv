@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Lysinibacillus fusiformis		strain: RB-21	28031	ASM72477v3	GCA_000724775.3	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4843789	4843789	2015-02-10	4768	PRJNA253769	SAMN02892976
+Lysinibacillus fusiformis		strain: RB-21	28031	ASM72477v3	GCF_000724775.3	RefSeq	GCF_000724775.3-RS_2024_03_28	Complete Genome	4843789	4843789	2015-02-10	4853	PRJNA253769	SAMN02892976
